@@ -90,10 +90,3 @@ This project provides a robust and scalable solution for processing raw data fro
 
 ---
 
-## 📬 Contact
-
-For queries or collaborations, feel free to connect with me on [LinkedIn](#) or reach out via email at \[[your-email@example.com](mailto:your-email@example.com)].
-
----
-
-Let me know if you'd like help with code samples, uploading to GitHub, or building the Power BI visuals section more deeply.

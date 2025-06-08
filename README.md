@@ -43,6 +43,7 @@ Data Sources (GitHub / MySQL)
 
 * Fetched data from **GitHub** and **MySQL**.
 * Used **Azure Data Factory** to move raw data into the **Bronze Layer** in **ADLS Gen2**.
+![image alt](https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/64d134c9ba6f77beba46b569f70815ea31914d56/Azure%20Homepage.png)
 
 ### 2. **Data Transformation (Silver Layer)**
 
@@ -51,6 +52,7 @@ Data Sources (GitHub / MySQL)
   * Clean, filter, and join datasets.
   * Perform necessary business logic.
 * Saved the transformed data in **Parquet** format in the **Silver Layer**.
+![image alt](https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/64d134c9ba6f77beba46b569f70815ea31914d56/Azure%20Databricks.png)
 
 ### 3. **Data Modeling (Gold Layer)**
 
@@ -58,6 +60,8 @@ Data Sources (GitHub / MySQL)
 
   * Filter data further for reporting needs.
   * Create **External Tables** on Gold data using **Parquet** format.
+![image alt](https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/64d134c9ba6f77beba46b569f70815ea31914d56/DataSet%20list.png)
+![image alt](https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/64d134c9ba6f77beba46b569f70815ea31914d56/Parquet%20Format.png)
 
 ### 4. **Data Visualization**
 

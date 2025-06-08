@@ -65,11 +65,11 @@ Data Sources (GitHub / MySQL)
 * Created dashboards analyzing:
 
   * **Sales Performance**
-https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/871cad9551683a3005386b03de4e5ee4b5b18f4d/Sales.png
+![image alt](https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/871cad9551683a3005386b03de4e5ee4b5b18f4d/Sales.png)
   * **Logistics Operations**
-https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/871cad9551683a3005386b03de4e5ee4b5b18f4d/Logistics.png
+![image alt](https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/871cad9551683a3005386b03de4e5ee4b5b18f4d/Logistics.png)
   * **Order Delivery Status**
-https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/871cad9551683a3005386b03de4e5ee4b5b18f4d/Quality.png
+![image alt](https://github.com/kiwa-debug/Olist-full-Data-Engg-and-Analysis/blob/871cad9551683a3005386b03de4e5ee4b5b18f4d/Quality.png)
 
 ---
 
